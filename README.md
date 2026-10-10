@@ -32,3 +32,10 @@ photos/
 Kullanılan görseller ve metinler, ayrıca belirtilmedikçe **© Onour Impram — Tüm hakları saklıdır.** Depoya herkese açık erişim verilmesi içerikleri yeniden kullanma izni anlamına gelmez.
 
 Sorumlu hesap: [@kecipsikologu](https://www.instagram.com/kecipsikologu/) · Proje başlangıcı: Ekim 2026.
+
+## İlk onaylı gönderi
+
+- [13.10.2026 — Takviminiz dolu. Peki, hayatınız kimin?](posts/2026-10-13-takviminiz-dolu/)
+- Instagram için kaynak dosyalar 7 PNG (1080 × 1350); caption ve yayın metadatası aynı klasördedir.
+- Planlı yayın için Buffer sabit bir Git commit’ine işaret eder; yeni bir tasarım revizyonu eski URL’yi bozmaz.
+- `validate-assets.yml` her yayın arşivi değişikliğinde medya sırasını ve görsel ölçülerini denetler.

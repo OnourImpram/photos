@@ -10,49 +10,63 @@
       "file": "slides/01.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Takviminiz dolu. Peki, hayatınız kimin? El çizimi ajanda ve sakin bir pencere manzarası."
+      "alt_text": "Takviminiz dolu. Peki, hayatınız kimin? El çizimi ajanda ve sakin bir pencere manzarası.",
+      "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/01.png",
+      "git_blob_sha": "ecb21327e0c1a806f2464362dc4d24075fe2d023"
     },
     {
       "order": 2,
       "file": "slides/02.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Ajandanız her şeyi göstermez. Günlük planları içeren çizilmiş takvim sayfası."
+      "alt_text": "Ajandanız her şeyi göstermez. Günlük planları içeren çizilmiş takvim sayfası.",
+      "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/02.png",
+      "git_blob_sha": "a8a0ad463ccedda8ba7c72bcb7c04ae6fd551e82"
     },
     {
       "order": 3,
       "file": "slides/03.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Zor olan, anlamsız olmak zorunda değil. Değer verdiğimiz sorumlulukları anlatan çizimler."
+      "alt_text": "Zor olan, anlamsız olmak zorunda değil. Değer verdiğimiz sorumlulukları anlatan çizimler.",
+      "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/03.png",
+      "git_blob_sha": "5ece3ddd19fed689c3fb30d6b2ca288ac56a06c7"
     },
     {
       "order": 4,
       "file": "slides/04.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Her evet, bilinçli bir tercih olmayabilir. Alışkanlık, beklenti ve değerleri gösteren yol levhaları."
+      "alt_text": "Her evet, bilinçli bir tercih olmayabilir. Alışkanlık, beklenti ve değerleri gösteren yol levhaları.",
+      "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/04.png",
+      "git_blob_sha": "1b1af475a634f68c2f5754afdb715fb04e5a660f"
     },
     {
       "order": 5,
       "file": "slides/05.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Küçük düşünme egzersizi: Seçtiklerim, üstlendiklerim ve yeniden konuşabileceklerim."
+      "alt_text": "Küçük düşünme egzersizi: Seçtiklerim, üstlendiklerim ve yeniden konuşabileceklerim.",
+      "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/05.png",
+      "git_blob_sha": "3f6d644f0136253498aa610bb19a05f4146d0f84"
     },
     {
       "order": 6,
       "file": "slides/06.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Her şeyi bırakmak gerekmiyor. Değiştirebileceğimiz koşulları değerlendirmek için örnek ifade."
+      "alt_text": "Her şeyi bırakmak gerekmiyor. Değiştirebileceğimiz koşulları değerlendirmek için örnek ifade.",
+      "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/06.png",
+      "git_blob_sha": "3b17f0b816f8c51940fbc073cda10e3ecdd419bd"
     },
     {
       "order": 7,
       "file": "slides/07.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Bu haftanın sorusu: Sürdürmek istediğiniz sorumluluklar üzerine düşünmek. Yol ayrımı çizimi."
+      "alt_text": "Bu haftanın sorusu: Sürdürmek istediğiniz sorumluluklar üzerine düşünmek. Yol ayrımı çizimi.",
+      "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/07.png",
+      "git_blob_sha": "78e0217627e08be08108e94871487ecbb829384c"
     }
   ],
   "buffer": {
@@ -61,7 +75,10 @@
     "status_at_archive": "scheduled",
     "scheduling_type": "automatic",
     "due_at_utc": "2026-10-13T16:10:00.000Z",
-    "due_at_istanbul": "2026-10-13T19:10:00+03:00"
+    "due_at_istanbul": "2026-10-13T19:10:00+03:00",
+    "asset_url_policy": "immutable_git_commit",
+    "last_confirmed_update": "2026-10-10T04:56:29.174Z",
+    "content_synced_to_repo": true
   },
   "caption": "caption.md",
   "notes": "Artwork produced for @kecipsikologu, no patient material; bibliography retained in production note only. Never delete scheduled source URLs before publication."

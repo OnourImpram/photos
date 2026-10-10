@@ -1,0 +1,11 @@
+# Never publish local secrets or private service data
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/

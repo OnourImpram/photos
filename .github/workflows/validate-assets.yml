@@ -1,0 +1,75 @@
+name: Validate Instagram release assets
+
+on:
+  push:
+    paths:
+      - "posts/**"
+      - ".github/workflows/validate-assets.yml"
+  pull_request:
+    paths:
+      - "posts/**"
+      - ".github/workflows/validate-assets.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate caption, metadata, image count and PNG dimensions
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          import struct
+          from pathlib import Path
+
+          posts = sorted(Path("posts").glob("*/metadata.json"))
+          if not posts:
+              raise SystemExit("No post metadata found")
+          validated = 0
+          for meta_path in posts:
+              m = json.loads(meta_path.read_text(encoding="utf-8"))
+              folder = meta_path.parent
+              caption = folder / m["caption"]
+              if not caption.is_file() or not caption.read_text(encoding="utf-8").strip():
+                  raise SystemExit(f"Missing or empty caption: {caption}")
+              if m.get("format") != "carousel":
+                  print(f"Skip non-carousel: {folder}")
+                  continue
+              slides = m.get("slides") or []
+              if len(slides) < 2:
+                  raise SystemExit(f"Carousel needs at least 2 slides: {folder}")
+              expected_files = set()
+              for expected_order, slide in enumerate(slides, start=1):
+                  if slide.get("order") != expected_order:
+                      raise SystemExit(f"Wrong slide order in {meta_path}: {slide}")
+                  expected_name = f"slides/{expected_order:02d}.png"
+                  if slide.get("file") != expected_name:
+                      raise SystemExit(f"Expected {expected_name}; got {slide.get('file')}")
+                  image_path = folder / expected_name
+                  if not image_path.is_file():
+                      raise SystemExit(f"Missing PNG: {image_path}")
+                  with image_path.open("rb") as f:
+                      h = f.read(24)
+                  if h[:8] != b"\x89PNG\r\n\x1a\n" or h[12:16] != b"IHDR":
+                      raise SystemExit(f"Invalid PNG header: {image_path}")
+                  width, height = struct.unpack(">II", h[16:24])
+                  if (width, height) != (1080, 1350):
+                      raise SystemExit(f"Unexpected dimensions {width}x{height}: {image_path}")
+                  if slide.get("width") != width or slide.get("height") != height:
+                      raise SystemExit(f"Incorrect metadata dimensions: {image_path}")
+                  if len(slide.get("alt_text", "").strip()) < 10:
+                      raise SystemExit(f"Alt text too short: {image_path}")
+                  expected_files.add(image_path)
+              actual_files = set((folder / "slides").glob("*.png"))
+              if actual_files != expected_files:
+                  raise SystemExit(f"Unlisted/missing PNGs in {folder / 'slides'}")
+              print(f"OK {folder}: {len(slides)} PNGs, full size, caption and alt texts")
+              validated += 1
+          print(f"Validated {validated} carousel(s)")
+          PY

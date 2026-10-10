@@ -1,0 +1,72 @@
+{
+  "id": "H01B-date-shift",
+  "account": "@kecipsikologu",
+  "platform": "instagram",
+  "format": "carousel",
+  "title": "Her şeyi halleden kişi, neyi söyleyemiyor?",
+  "publication": {
+    "target_time": "2026-10-11T19:30:00+03:00",
+    "timezone": "Europe/Istanbul",
+    "buffer_channel_id": "6ac898766a5c39ccb65e5928",
+    "status": "approved-awaiting-scheduler"
+  },
+  "slides": [
+    {
+      "order": 1,
+      "file": "slides/01.png",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 1525311,
+      "git_blob_sha": "20d1cc8ab475e666c3e3eb53bf0e24dc69164ea8",
+      "alt_text": "Her şeyi halleden kişi, neyi söyleyemiyor? Krem fonda yeşil defter ve biriken gündelik iş notlarının çizimi."
+    },
+    {
+      "order": 2,
+      "file": "slides/02.png",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 1139055,
+      "git_blob_sha": "6eb0f16047d0482349b1bccdcb075e624718f74a",
+      "alt_text": "İnsanlar size ne için gelir? Farklı kişilerden gelen taleplerin yeşil defterin çevresinde biriktiği çizim."
+    },
+    {
+      "order": 3,
+      "file": "slides/03.png",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 1439660,
+      "git_blob_sha": "895ff511c45498afb0b6c34124554325b4f988eb",
+      "alt_text": "Güvenilir olmak bazen yorucu hissettirebilir. Bir terazide sorumluluklar ile kişinin ihtiyaçlarının çizimi."
+    },
+    {
+      "order": 4,
+      "file": "slides/04.png",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 1078706,
+      "git_blob_sha": "e94e7716756643400d340bf4e48ebf5a0c0929af",
+      "alt_text": "İki ayrı deneyim: İnsanların çözüm beklediği anlar ve kişinin duyulmak, birlikte düşünmek istediği anlar."
+    },
+    {
+      "order": 5,
+      "file": "slides/05.png",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 1094484,
+      "git_blob_sha": "ce9803dea99725860ca9022f6d9ecc4dabcc1473",
+      "alt_text": "Küçük bir başlangıç. Kararsızlığını veya konuşma ihtiyacını ifade etmeye yarayan üç cümleyi taşıyan not kâğıtları."
+    },
+    {
+      "order": 6,
+      "file": "slides/06.png",
+      "width": 1080,
+      "height": 1350,
+      "size_bytes": 1490147,
+      "git_blob_sha": "ffdc5c13f6bad342d1791ee073df9a5a6e052bda",
+      "alt_text": "Haftanın sorusu. Kişinin kimin yanında tereddüdünü paylaşabildiğini düşünmesine alan açan illüstratif kapanış."
+    }
+  ],
+  "caption": "caption.md",
+  "copyright": "© Onour Impram — All rights reserved",
+  "note": "User-approved 6-slide adaptation of the Oct 15 concept for Sunday Oct 11. Publication subject to Buffer automatic schedule validation."
+}

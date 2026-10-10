@@ -1,0 +1,49 @@
+name: Import approved October carousel images
+
+on:
+  push:
+    paths:
+      - ".github/workflows/import-approved-carousel.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-first-post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the destination repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Copy approved public PNG assets, exactly once
+        shell: bash
+        run: |
+          set -euo pipefail
+          target="posts/2026-10-13-takviminiz-dolu/slides"
+          mkdir -p "$target"
+          expected=(1434786 867329 931604 883550 864154 948989 1401996)
+          for n in {1..7}; do
+            printf -v index "%02d" "$n"
+            src="https://raw.githubusercontent.com/OnourImpram/thegoatpsy.github.io/main/media/instagram/kecipsikologu/2026-10-13/${index}.png"
+            dest="${target}/${index}.png"
+            if [[ ! -f "$dest" ]]; then
+              curl --fail --location --silent --show-error --retry 3 --connect-timeout 15 "$src" -o "$dest"
+            fi
+            type="$(file --brief --mime-type "$dest")"
+            bytes="$(stat -c%s "$dest")"
+            expected_bytes="${expected[$((n-1))]}"
+            [[ "$type" == "image/png" ]] || { echo "::error::${index} invalid format: $type"; exit 1; }
+            [[ "$bytes" == "$expected_bytes" ]] || { echo "::error::${index} wrong length: $bytes"; exit 1; }
+            echo "Verified ${index}.png (${bytes} bytes)"
+          done
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$target"
+          if ! git diff --cached --quiet; then
+            git commit -m "Import seven approved Instagram carousel PNGs"
+            git push origin HEAD:main
+          fi

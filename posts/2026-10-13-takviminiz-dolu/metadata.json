@@ -1,0 +1,68 @@
+{
+  "id": "H01A",
+  "account": "@kecipsikologu",
+  "platform": "instagram",
+  "format": "carousel",
+  "public_repository": "OnourImpram/photos",
+  "slides": [
+    {
+      "order": 1,
+      "file": "slides/01.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Takviminiz dolu. Peki, hayatınız kimin? El çizimi ajanda ve sakin bir pencere manzarası."
+    },
+    {
+      "order": 2,
+      "file": "slides/02.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Ajandanız her şeyi göstermez. Günlük planları içeren çizilmiş takvim sayfası."
+    },
+    {
+      "order": 3,
+      "file": "slides/03.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Zor olan, anlamsız olmak zorunda değil. Değer verdiğimiz sorumlulukları anlatan çizimler."
+    },
+    {
+      "order": 4,
+      "file": "slides/04.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Her evet, bilinçli bir tercih olmayabilir. Alışkanlık, beklenti ve değerleri gösteren yol levhaları."
+    },
+    {
+      "order": 5,
+      "file": "slides/05.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Küçük düşünme egzersizi: Seçtiklerim, üstlendiklerim ve yeniden konuşabileceklerim."
+    },
+    {
+      "order": 6,
+      "file": "slides/06.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Her şeyi bırakmak gerekmiyor. Değiştirebileceğimiz koşulları değerlendirmek için örnek ifade."
+    },
+    {
+      "order": 7,
+      "file": "slides/07.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Bu haftanın sorusu: Sürdürmek istediğiniz sorumluluklar üzerine düşünmek. Yol ayrımı çizimi."
+    }
+  ],
+  "buffer": {
+    "post_id": "6ac91272810582311ae8ddda",
+    "channel_id": "6ac898766a5c39ccb65e5928",
+    "status_at_archive": "scheduled",
+    "scheduling_type": "automatic",
+    "due_at_utc": "2026-10-13T16:10:00.000Z",
+    "due_at_istanbul": "2026-10-13T19:10:00+03:00"
+  },
+  "caption": "caption.md",
+  "notes": "Artwork produced for @kecipsikologu, no patient material; bibliography retained in production note only. Never delete scheduled source URLs before publication."
+}

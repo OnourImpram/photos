@@ -39,3 +39,9 @@ Sorumlu hesap: [@kecipsikologu](https://www.instagram.com/kecipsikologu/) · Pro
 - Instagram için kaynak dosyalar 7 PNG (1080 × 1350); caption ve yayın metadatası aynı klasördedir.
 - Planlı yayın için Buffer sabit bir Git commit’ine işaret eder; yeni bir tasarım revizyonu eski URL’yi bozmaz.
 - `validate-assets.yml` her yayın arşivi değişikliğinde medya sırasını ve görsel ölçülerini denetler.
+
+## 11 Ekim 2026 gönderisi
+
+- [Her şeyi halleden kişi, neyi söyleyemiyor?](posts/2026-10-11-her-seyi-halleden-kisi/) — 6 slayt, onaylı metin ve alternatif metinler.
+- Planlanan yayın: 11.10.2026 Pazar 19.30 (Europe/Istanbul); Buffer ID `6aca606aed92ed8fa5d3d9b4`.
+- Yayın varlıkları: orijinal 1080 × 1350 PNG, commit `11ccfe391d8c5fdbd6e6d3d7be547079e93a18a9` üzerine sabitlenmiş bağlantılar.

@@ -8,7 +8,13 @@
     "target_time": "2026-10-11T19:30:00+03:00",
     "timezone": "Europe/Istanbul",
     "buffer_channel_id": "6ac898766a5c39ccb65e5928",
-    "status": "approved-awaiting-scheduler"
+    "status": "scheduled",
+    "buffer_post_id": "6aca606aed92ed8fa5d3d9b4",
+    "due_at_utc": "2026-10-11T16:30:00.000Z",
+    "mode": "customScheduled",
+    "automatic": true,
+    "asset_url_policy": "immutable_git_commit",
+    "git_asset_commit": "11ccfe391d8c5fdbd6e6d3d7be547079e93a18a9"
   },
   "slides": [
     {
@@ -68,5 +74,5 @@
   ],
   "caption": "caption.md",
   "copyright": "© Onour Impram — All rights reserved",
-  "note": "User-approved 6-slide adaptation of the Oct 15 concept for Sunday Oct 11. Publication subject to Buffer automatic schedule validation."
+  "note": "Approved six-slide carousel, moved from original October 15 concept to October 11. Scheduled in Buffer; platform posting remains pending."
 }

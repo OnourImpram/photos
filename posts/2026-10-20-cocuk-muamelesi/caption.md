@@ -1,7 +1,5 @@
 Ailemize yakın kalmayı da, kendi kararlarımızı vermeyi de isteyebiliriz.
 
-Karuselde yakınlık ile iç içe geçmenin ayrımına, araştırmaların neyi gösterdiğine ve neyi göstermediğine, denenebilecek küçük adımlara yer verdik.
-
 Sınır koymak bazı ailelerde güvenli olmayabilir. Öyleyse önce bir uzmanla konuşmak iyi bir başlangıç olabilir. Tehdit, baskı, paranızın ya da hareket özgürlüğünüzün zorla kısıtlanması aile içinde de olsa ilgi değildir.
 
 Bu konuyu bir uzmanla birlikte ele almak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formu onourimpram.com adresinde.

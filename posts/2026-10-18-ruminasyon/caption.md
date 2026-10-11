@@ -1,7 +1,5 @@
 Aynı düşünceye dönmek, bir şey yapıyormuş gibi gelebilir.
 
-Karuselde ruminasyonun ne olduğuna, deneylerde nelerin bulunduğuna ve denenebilecek somut bir adıma yer verdik.
-
 Bu döngü uzun süre devam ediyor ya da günlük hayatı zorlaştırıyorsa, bir uzmanla çalışmak iyi bir adım olabilir.
 
 Bu düşünce döngüsünü bir uzmanla birlikte ele almak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formu onourimpram.com adresinde.

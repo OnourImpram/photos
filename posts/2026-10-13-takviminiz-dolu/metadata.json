@@ -21,7 +21,7 @@
       "height": 1350,
       "alt_text": "Ajandanız her şeyi göstermez. Günlük planları içeren çizilmiş takvim sayfası.",
       "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/02.png",
-      "git_blob_sha": "a8a0ad463ccedda8ba7c72bcb7c04ae6fd551e82"
+      "git_blob_sha": "3dcff45264a1ff222f372d2d0ca8d07b542bf279"
     },
     {
       "order": 3,
@@ -30,7 +30,7 @@
       "height": 1350,
       "alt_text": "Zor olan, anlamsız olmak zorunda değil. Değer verdiğimiz sorumlulukları anlatan çizimler.",
       "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/03.png",
-      "git_blob_sha": "5ece3ddd19fed689c3fb30d6b2ca288ac56a06c7"
+      "git_blob_sha": "2e28ef334a536f8807df36f1184734f0ce62b9ff"
     },
     {
       "order": 4,
@@ -39,7 +39,7 @@
       "height": 1350,
       "alt_text": "Her evet, bilinçli bir tercih olmayabilir. Alışkanlık, beklenti ve değerleri gösteren yol levhaları.",
       "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/04.png",
-      "git_blob_sha": "1b1af475a634f68c2f5754afdb715fb04e5a660f"
+      "git_blob_sha": "9c4c37699aab142c056a5e501dfb4583f56e9804"
     },
     {
       "order": 5,
@@ -48,7 +48,7 @@
       "height": 1350,
       "alt_text": "Küçük düşünme egzersizi: Seçtiklerim, üstlendiklerim ve yeniden konuşabileceklerim.",
       "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/05.png",
-      "git_blob_sha": "3f6d644f0136253498aa610bb19a05f4146d0f84"
+      "git_blob_sha": "74378e7c5818c9187747d46343c6336625d5bb1f"
     },
     {
       "order": 6,
@@ -57,7 +57,7 @@
       "height": 1350,
       "alt_text": "Her şeyi bırakmak gerekmiyor. Değiştirebileceğimiz koşulları değerlendirmek için örnek ifade.",
       "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/06.png",
-      "git_blob_sha": "3b17f0b816f8c51940fbc073cda10e3ecdd419bd"
+      "git_blob_sha": "0826e7760914ffe135aa83ac9f7faf8b0703b5d5"
     },
     {
       "order": 7,
@@ -66,7 +66,7 @@
       "height": 1350,
       "alt_text": "Bu haftanın sorusu: Sürdürmek istediğiniz sorumluluklar üzerine düşünmek. Yol ayrımı çizimi.",
       "url": "https://raw.githubusercontent.com/OnourImpram/photos/88fa9b7f221e6ac12ab5f0757c924cd63643e3f8/posts/2026-10-13-takviminiz-dolu/slides/07.png",
-      "git_blob_sha": "78e0217627e08be08108e94871487ecbb829384c"
+      "git_blob_sha": "13f729e4cfcc1a77cc27fb15c732c81f98c72655"
     }
   ],
   "buffer": {
@@ -81,5 +81,8 @@
     "content_synced_to_repo": true
   },
   "caption": "caption.md",
-  "notes": "Artwork produced for @kecipsikologu, no patient material; bibliography retained in production note only. Never delete scheduled source URLs before publication."
+  "notes": "Artwork produced for @kecipsikologu, no patient material; bibliography retained in production note only. Never delete scheduled source URLs before publication.",
+  "revisions": [
+    "2026-10-11: footer 'HAYATI YÖNETMEK' on slides 02-07 had a broken Ö glyph (dropped lowercase); replaced with a capital Ö in Noto Sans 550 at cap height. Only a 15x24 px patch changed per slide. Buffer media replaced."
+  ]
 }

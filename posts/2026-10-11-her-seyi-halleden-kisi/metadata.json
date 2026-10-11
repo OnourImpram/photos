@@ -67,12 +67,15 @@
       "file": "slides/06.png",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 1490147,
-      "git_blob_sha": "ffdc5c13f6bad342d1791ee073df9a5a6e052bda",
+      "size_bytes": 2179279,
+      "git_blob_sha": "ceff3117fc96a2eec0adc9c4972d0196411679fe",
       "alt_text": "Haftanın sorusu. Kişinin kimin yanında tereddüdünü paylaşabildiğini düşünmesine alan açan illüstratif kapanış."
     }
   ],
   "caption": "caption.md",
   "copyright": "© Onour Impram — All rights reserved",
-  "note": "Approved six-slide carousel, moved from original October 15 concept to October 11. Scheduled in Buffer; platform posting remains pending."
+  "note": "Approved six-slide carousel, moved from original October 15 concept to October 11. Scheduled in Buffer; platform posting remains pending.",
+  "revisions": [
+    "2026-10-11: slide 06 duplicate ghost line 'Düşünmek için kaydedebilirsiniz.' removed by inpainting (only that band changed). Buffer media replaced."
+  ]
 }

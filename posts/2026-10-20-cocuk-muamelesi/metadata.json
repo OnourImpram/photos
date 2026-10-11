@@ -1,0 +1,83 @@
+{
+  "id": "2026-10-20",
+  "account": "@kecipsikologu",
+  "platform": "instagram",
+  "format": "carousel",
+  "title": "Büyüdük ama hâlâ çocuk muamelesi görüyorsak",
+  "public_repository": "OnourImpram/photos",
+  "publication": {
+    "planned": "2026-10-20T19:30:00+03:00",
+    "channel": "Buffer"
+  },
+  "slides": [
+    {
+      "order": 1,
+      "file": "slides/01.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Büyüdük ama hâlâ çocuk muamelesi görüyorsak. Kendi kararlarımızı veriyor, faturalarımızı ödüyoruz, yine de sen yapamazsın, ben hallederim cümlesi bizi on beş yaşına döndürebiliyor. Krem zeminde yan yana büyük ve küçük iki çift ayakkabının mürekkep ve suluboya çizimi.",
+      "size_bytes": 1036362,
+      "git_blob_sha": "2b8e547f9bd05ce450315d9c2cd2dd3fd6b90a53"
+    },
+    {
+      "order": 2,
+      "file": "slides/02.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Yakınlık ile iç içe geçme aynı şey mi sorusu. Araştırmacıların bir kısmı bu ikisini ayrı şeyler olarak ele alıyor. Yakınlık paylaşılan sevgi ve destek, iç içe geçme ayrı bir birey olarak gelişmeyi zorlaştırabilen aile örüntüleri. Biri yalnız değen, biri üst üste geçmiş iki bakır halka çizimi.",
+      "size_bytes": 775607,
+      "git_blob_sha": "ebe2ceed5e629113275c389597f561b1bc99fcf2"
+    },
+    {
+      "order": 3,
+      "file": "slides/03.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Zorlanma nerede başlıyor. Klinik gözlem etiketli bir cümle var. Üniversite öğrencileriyle yapılan bir çalışmada, ebeveynlerinin fazla kontrol ettiğini bildirenlerin iyi oluşu daha düşük çıkmış ve bu fark, özerklik ve yeterlik ihtiyaçlarının hiçe sayıldığı algısıyla bağlantılı bulunmuş. Gidon çizimi.",
+      "size_bytes": 720260,
+      "git_blob_sha": "1638c119e46425de8167ed3e641422663af7fe8b"
+    },
+    {
+      "order": 4,
+      "file": "slides/04.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Bu ilişki ne kadar güçlü. Birçok çalışmayı birleştiren bir analizde, aşırı ebeveynlik ile depresyon ve kaygı belirtileri arasında küçük bir ilişki bulunmuş. İlişki, bir şeyin ötekine yol açtığını göstermez. Yalnız küçük bir bölümü açılmış mezura çizimi.",
+      "size_bytes": 824855,
+      "git_blob_sha": "644927d90b90c1ae3397ee74d22ec35e06bdbb23"
+    },
+    {
+      "order": 5,
+      "file": "slides/05.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Küçük adımlar, seçenek olarak. Bir kararı kendimiz vermek ve cümleyi ben diliyle kurmak örnek veriliyor, ikisi de klinik gözlemden gelen öneri. Üç gözlü ahşap tohum kutusu çizimi.",
+      "size_bytes": 730163,
+      "git_blob_sha": "96fdc6f4eb514ceebf2b9003e1d26d0459519595"
+    },
+    {
+      "order": 6,
+      "file": "slides/06.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Ne zaman yardım almalı. Sınır koymak bazı ailelerde güvenli olmayabilir, önce bir uzmanla konuşmak iyi olabilir. Tehdit, baskı, paranın ya da hareket özgürlüğünün zorla kısıtlanması aile içinde de olsa ilgi değildir, beklemeden yardım alınmalı. Yakın ve ciddi tehlikede 112 aranmalı. Şemsiye çizimi.",
+      "size_bytes": 763770,
+      "git_blob_sha": "3a68af223f6494ea1cac4150b672285afdc2547f"
+    },
+    {
+      "order": 7,
+      "file": "slides/07.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Birlikte bakmak isterseniz. Bu konuyu bir uzmanla ele almak için psikolojik danışmanlık hizmeti bağlantısı profilde, küçük yazıda ön görüşme formu ve WhatsApp hattının acil yardım kanalı olmadığı ve sürekli izlenmediği belirtiliyor. İskelede yan yana bağlı iki küçük kayık çizimi.",
+      "size_bytes": 1018831,
+      "git_blob_sha": "21fe00486b3710236a604a3c4dc64290d98ea26a"
+    }
+  ],
+  "caption": "caption.md",
+  "notes": [
+    "Copy audited in the vault (AUDIT_PASS, two audit rounds); evidence brief and audit reports stay in the vault.",
+    "Illustrations: textless 2D ink and watercolor from ChatGPT; text set in HTML and rendered to 1080x1350."
+  ],
+  "revisions": []
+}

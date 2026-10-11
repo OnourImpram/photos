@@ -1,0 +1,83 @@
+{
+  "id": "2026-10-22",
+  "account": "@kecipsikologu",
+  "platform": "instagram",
+  "format": "carousel",
+  "title": "Ertelediğimiz şey gerçekten iş mi?",
+  "public_repository": "OnourImpram/photos",
+  "publication": {
+    "planned": "2026-10-22T19:30:00+03:00",
+    "channel": "Buffer"
+  },
+  "slides": [
+    {
+      "order": 1,
+      "file": "slides/01.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Ertelediğimiz şey gerçekten iş mi? Bilgisayarı açarız, boş sayfaya bakarız, birkaç dakika sonra kendimizi mutfakta çay demlerken buluruz. Krem zeminde kapağı takılı bir dolma kalemin mürekkep ve suluboya çizimi.",
+      "size_bytes": 999203,
+      "git_blob_sha": "1b51314e1ec29d88369e8a5b4feba1354be3d8fa"
+    },
+    {
+      "order": 2,
+      "file": "slides/02.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "İşin başına oturduğumuz o ilk dakika. İçimizde bir şey kıpırdar. Üç iç ses: Nereden başlasam, ya beğenilmezse, hiç çekilecek gibi değil. Adaçayı yeşili saplı küçük bakır bir çan çizimi.",
+      "size_bytes": 863893,
+      "git_blob_sha": "f4826885718e44ed17cfea019a3004122386cf43"
+    },
+    {
+      "order": 3,
+      "file": "slides/03.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Başka bir şeye geçmek o an rahatlatır. Kötü ruh hâlindeki kişilerle yapılan bir laboratuvar deneyinde, ruh hâllerinin değişmeyeceğine inandırılanlarda boş işlerle erteleme eğilimi ortadan kalkmış. Ertelediğimiz şey iş değil, işin bize hissettirdiği olabilir. Sabun köpükleri çizimi.",
+      "size_bytes": 837608,
+      "git_blob_sha": "be80d04851d1bf766287b36379c3bfba5d335b64"
+    },
+    {
+      "order": 4,
+      "file": "slides/04.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Ertelemenin bedelini ertesi gün öderiz. İş hâlâ masada bekler, yanına suçluluk eklenmiştir. Ben tembelim demek döngüyü bir tur daha döndürebilir. Yapmayı hiç düşünmediğimiz bir işi ertelemeyiz. Ağzı kapalı, dolu bir sırt çantası çizimi.",
+      "size_bytes": 918402,
+      "git_blob_sha": "2bb12b377b25e03945ec3af2380f2e965784c636"
+    },
+    {
+      "order": 5,
+      "file": "slides/05.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Korkunun yanına yapamam eklenince. Üniversite öğrencileriyle yapılan bir çalışmada, başarısız olma korkusu kendini yetersiz hissedenlerde daha çok ertelemeyle birlikte görülmüş. İşi bunu yapabilirim diyebileceğimiz kadar küçültmek elimizde. Kalın kapaklı bir kitap çizimi.",
+      "size_bytes": 1101005,
+      "git_blob_sha": "417c7ddd7fbedae957a8eb2e5ec49779ebee1fac"
+    },
+    {
+      "order": 6,
+      "file": "slides/06.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Elimiz telefona gittiğinde: hissi adlandırmak, ilk adımı küçültmek, kendimize yüklenmeden dönmek. Ucunda küçük bir alev yanan tek bir kibrit çizimi.",
+      "size_bytes": 752308,
+      "git_blob_sha": "d80701fcfa6a6ab5d9ff84d27cea5a356116a3f7"
+    },
+    {
+      "order": 7,
+      "file": "slides/07.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Sizi hangi his karşılıyor? Bu hafta ertelediğiniz bir iş için bir soru ve psikolojik danışmanlık hizmeti bağlantısının profilde olduğu bilgisi. Kanatları açık, kâğıttan katlanmış bir turna çizimi.",
+      "size_bytes": 913213,
+      "git_blob_sha": "048b2cd1dbc3ea24c7b145d9bddb4ed4f2d82b36"
+    }
+  ],
+  "caption": "caption.md",
+  "notes": [
+    "Copy audited in the vault (AUDIT_PASS after three rounds); evidence brief and audit reports stay in the vault.",
+    "Illustrations: textless 2D ink and watercolor from ChatGPT; text set in HTML and rendered to 1080x1350."
+  ],
+  "revisions": []
+}

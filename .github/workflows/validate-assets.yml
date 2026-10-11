@@ -24,6 +24,7 @@ jobs:
         shell: bash
         run: |
           python3 - <<'PY'
+          import hashlib
           import json
           import struct
           from pathlib import Path
@@ -65,11 +66,19 @@ jobs:
                       raise SystemExit(f"Incorrect metadata dimensions: {image_path}")
                   if len(slide.get("alt_text", "").strip()) < 10:
                       raise SystemExit(f"Alt text too short: {image_path}")
+                  # metadata must describe the committed bytes (2026-10-12: a metadata-only commit carried the
+                  # blob sha of a PNG that was not committed yet, and this job passed)
+                  data = image_path.read_bytes()
+                  if slide.get("size_bytes") != len(data):
+                      raise SystemExit(f"size_bytes {slide.get('size_bytes')} != {len(data)}: {image_path}")
+                  blob = hashlib.sha1(b"blob %d\0" % len(data) + data).hexdigest()
+                  if slide.get("git_blob_sha") != blob:
+                      raise SystemExit(f"git_blob_sha does not match the committed file: {image_path}")
                   expected_files.add(image_path)
               actual_files = set((folder / "slides").glob("*.png"))
               if actual_files != expected_files:
                   raise SystemExit(f"Unlisted/missing PNGs in {folder / 'slides'}")
-              print(f"OK {folder}: {len(slides)} PNGs, full size, caption and alt texts")
+              print(f"OK {folder}: {len(slides)} PNGs, full size, blob sha and size match, caption and alt texts")
               validated += 1
           print(f"Validated {validated} carousel(s)")
           PY

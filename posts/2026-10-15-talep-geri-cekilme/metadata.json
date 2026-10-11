@@ -1,5 +1,5 @@
 {
-  "id": "H03A",
+  "id": "2026-10-15",
   "account": "@kecipsikologu",
   "platform": "instagram",
   "format": "carousel",
@@ -15,75 +15,59 @@
       "file": "slides/01.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Biri konuşmak isterken, diğeri susuyorsa kapağı: psikolojide buna talep ve geri çekilme döngüsü deniyor. Buharı yana uzanan adaçayı yeşili bir fincan ile üstü küçük bir tabakla kapalı bakır renkli bir fincanın mürekkep ve suluboya çizimi.",
-      "size_bytes": 1017139,
-      "git_blob_sha": "62b25c501bb3dd0a6614f62cc6c5fd801629794f",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/61fdeb859b9eb222f6634d8d81e9378025c91315/posts/2026-10-15-talep-geri-cekilme/slides/01.png"
+      "alt_text": "Biri konuşmak isterken, diğeri susuyorsa. Sofra kalkmış, biri pazar ziyaretini konuşmak istiyor, öteki telefona dönüyor, aynı cümle bu kez daha yüksek sesle geliyor. Buharı yana uzanan adaçayı yeşili bir fincan ile üstü tabakla kapalı bakır bir fincanın çizimi.",
+      "size_bytes": 1020719,
+      "git_blob_sha": "8f4ff39552499ac986c64f2dd10b5a1fe6615fcd"
     },
     {
       "order": 2,
       "file": "slides/02.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Biri üsteledikçe öteki çekilebiliyor: üç adımlık döngü akışı. Adaçayı yeşili ve bakır renkli iki iplik yumağı, birinin ipi diğerine uzanıyor, ötekinin ipi kendi yumağına geri sarılıyor, mürekkep ve suluboya çizimi.",
-      "size_bytes": 812498,
-      "git_blob_sha": "543559e19859efc5613e5350c2ca7893ec295f1e",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/61fdeb859b9eb222f6634d8d81e9378025c91315/posts/2026-10-15-talep-geri-cekilme/slides/02.png"
+      "alt_text": "Aynı akşam, iki ayrı iç ses. Konuşmak isteyenin içinden: Susuyorsa artık umursamıyor. Susanın içinden: Kafam doldu, ağzımı açarsam iş büyüyecek. Biri duyulmamaktan, öteki işin büyümesinden korkuyor. Bakır kapaklı cam kavanozda katlanmış yazısız notlar çizimi.",
+      "size_bytes": 744333,
+      "git_blob_sha": "73b25cbd04209bc69b057eae84954fbbb7b0342e"
     },
     {
       "order": 3,
       "file": "slides/03.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Kim üsteler, kim çekilir sorusu ve iki kart: konu sizin derdinizse üstelemeye daha yatkın olabilirsiniz, partnerinizin derdiyse geri çekilmeye daha yatkın olabilirsiniz. Yönleri yer değiştirmiş, adaçayı yeşili ve bakır renkli iki yaprak dalı çizimi.",
-      "size_bytes": 829237,
-      "git_blob_sha": "ccb6d7395412c6600ab13babaea31881f03edfea",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/61fdeb859b9eb222f6634d8d81e9378025c91315/posts/2026-10-15-talep-geri-cekilme/slides/03.png"
+      "alt_text": "İkisi de bağı korumaya çalışıyor. Üsteleyen yaklaşmaya, susan korumaya çalışıyor. Konuşmaları gözlenen çiftlerle yapılan bir çalışmada, daha çok üsteleyen kişilerin partnerleri daha çok geri çekilmiş. Biri ipini uzatan, öteki ipini geri saran iki yumak çizimi.",
+      "size_bytes": 802019,
+      "git_blob_sha": "d8184bd013241dfff801a114e04ad14bdbc635c9"
     },
     {
       "order": 4,
       "file": "slides/04.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Denenebilecek iki küçük adım: en üstte korku, tehdit ya da kontrol varsa bu adımların size göre olmadığını söyleyen not ve 6. slayta yönlendirme, altında dönüş saati belli bir mola ile tek, somut bir istek, en altta klinik gözlem notu. Kum saati ve kapalı zarf çizimi.",
-      "size_bytes": 755520,
-      "git_blob_sha": "c1e2bab1a49b27a72be05c652e4dae7b2d85e26a",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/61fdeb859b9eb222f6634d8d81e9378025c91315/posts/2026-10-15-talep-geri-cekilme/slides/04.png"
+      "alt_text": "Bugün üsteleyen, yarın susan olabilir. Roller konuya göre yer değiştirebiliyorsa soru da değişir: Kim haklı yerine hangi döngüye düştük. Susmak cezalandırmak için kullanılıyorsa ya da korku, tehdit, kontrol varsa bu ortak bir döngü değildir. Yer değiştirmiş iki dal çizimi.",
+      "size_bytes": 857050,
+      "git_blob_sha": "608058e0f0777cc838c3fe7bb4a55b55391a42b3"
     },
     {
       "order": 5,
       "file": "slides/05.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Özetle iki kişilik bir döngü: dört özet cümle ve kaydetme gerekçesi. Son cümle: bir araştırmada, döngüye giren konular kapansa bile istenen değişiklikte anlaşma olasılığı daha düşük bulunmuş. Bakır kapaklı cam kavanozda katlanmış yazısız notlar ve bir adaçayı yaprağı çizimi.",
-      "size_bytes": 692325,
-      "git_blob_sha": "a6870ceb192ad33f30b9aad962527aa814fa2bd3",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/61fdeb859b9eb222f6634d8d81e9378025c91315/posts/2026-10-15-talep-geri-cekilme/slides/05.png"
+      "alt_text": "Bir sonraki zor anda söylenebilecek iki cümle. Konuşmak isteyen: Sustuğunda yalnız kalmış gibi oluyorum. Susan: Kafam doldu, gitmiyorum, bir saat sonra dönüp konuşalım. Biri suçlanmadığını, öteki bırakılmadığını duyar. Kum saati ve kapalı bir zarf çizimi.",
+      "size_bytes": 788737,
+      "git_blob_sha": "1ac04db3e42bb3106eb7dd7410c9c686476b59fb"
     },
     {
       "order": 6,
       "file": "slides/06.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Önce güvenlik, sonra konuşma: korku, tehdit ya da kontrol bir iletişim sorunu değildir. Acil bir tehlike varsa hemen 112'yi arayın, sonraki adım için bir uzmandan bireysel olarak yardım alabilirsiniz. Altında yardım kanallarının adları yazıyor. Pencere pervazında gece lambası ve adaçayı dalı çizimi.",
-      "size_bytes": 802462,
-      "git_blob_sha": "f8c371617254ac20738264a1ec25557cf89cb369",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/61fdeb859b9eb222f6634d8d81e9378025c91315/posts/2026-10-15-talep-geri-cekilme/slides/06.png"
-    },
-    {
-      "order": 7,
-      "file": "slides/07.png",
-      "width": 1080,
-      "height": 1350,
-      "alt_text": "Birlikte düşünmek isterseniz: bu tür konuşmaları bir uzmanla düşünmek için psikolojik danışmanlık hizmeti bağlantısı profilde. Masada yan yana duran, ikisinden de ince buhar yükselen adaçayı yeşili ve bakır renkli iki fincanın çizimi.",
-      "size_bytes": 983416,
-      "git_blob_sha": "74d9f86928e8b558d93e40189f7e3fee21023799",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/61fdeb859b9eb222f6634d8d81e9378025c91315/posts/2026-10-15-talep-geri-cekilme/slides/07.png"
+      "alt_text": "Değiştirmeden önce anlamak. Kabul, karşımızdakinin üstelemesini ya da susmasını, altındaki korkuyla birlikte görebilmekle başlar. Bu döngüye bir uzmanla bakmak için psikolojik danışmanlık hizmeti bağlantısı profilde. İkisinden de buhar yükselen iki fincan çizimi.",
+      "size_bytes": 899616,
+      "git_blob_sha": "32c60cee2187c539d9d80be0e54531dd1078739b"
     }
   ],
   "caption": "caption.md",
   "notes": [
-    "Copy audited in the vault (AUDIT_PASS, four audit rounds); evidence brief and audit reports stay in the vault.",
+    "Copy audited in the vault (v2 rewrite, AUDIT_PASS after three rounds); evidence brief and audit reports stay in the vault.",
     "Illustrations: textless 2D ink and watercolor from ChatGPT; text set in HTML and rendered to 1080x1350."
   ],
   "revisions": []

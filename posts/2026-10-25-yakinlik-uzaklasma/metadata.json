@@ -1,0 +1,74 @@
+{
+  "id": "2026-10-25",
+  "account": "@kecipsikologu",
+  "platform": "instagram",
+  "format": "carousel",
+  "title": "Her şey yolundayken neden uzaklaşmak isteriz?",
+  "public_repository": "OnourImpram/photos",
+  "publication": {
+    "planned": "2026-10-25T19:30:00+03:00",
+    "channel": "Buffer"
+  },
+  "slides": [
+    {
+      "order": 1,
+      "file": "slides/01.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Her şey yolundayken neden uzaklaşmak isteriz? Bütün pazar birlikte geçmiş, ayrılırken o keşke hep böyle olsa diyor, ertesi gün mesajlara geç dönülüyor. Bazılarımızda yakınlık arttıkça bir uzaklaşma isteği de belirir. İleri geri sallanırken geriye savrulmuş bir bahçe salıncağı çizimi.",
+      "size_bytes": 1059388,
+      "git_blob_sha": "2b95b285839669859dc1e25b0b53a155bee3aef2"
+    },
+    {
+      "order": 2,
+      "file": "slides/02.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Uzaklaşma isteği neyi korur? Yakınlık büyüdükçe ihtiyaç da incinme ihtimali de büyür, bazılarımız bağı gevşek tutup duyguların sesini kısar. İçeriden bir ses: Kimseye bu kadar bağlanmamalıyım. Bunun bir etiket değil, bir eğilim olduğu yazıyor. Pullarını kapatmış bir kozalak çizimi.",
+      "size_bytes": 811917,
+      "git_blob_sha": "eba353be0654c84a15a3e114106ce732082d34da"
+    },
+    {
+      "order": 3,
+      "file": "slides/03.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Uzaklaşmayı karşımızdaki de hisseder. Çiftlerle yapılan beş çalışmalık bir araştırmanın ikisinde, mesafeye ihtiyaç duyma eğilimi yüksek olanların hem tartışmada hem gündelik hayatta daha çok geri çekildiği görülmüş. Karşıdakinin içinden: Bir şey mi yaptım? Tek parçası eksik bir yapboz çizimi.",
+      "size_bytes": 882635,
+      "git_blob_sha": "0a7dc4ccb1f800c15f23bb86707d00188557b815"
+    },
+    {
+      "order": 4,
+      "file": "slides/04.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Nefes aldıran mesafe söylenerek alınır, süresi bellidir. Bağı yoran uzaklık sessizce başlar, ne zaman biteceği belirsizdir. Susmak cezalandırmak için kullanılıyorsa, tehdit ya da baskı varsa bu bir mesafe ihtiyacı değildir. Yarısı açılmış bir yelpaze çizimi.",
+      "size_bytes": 876105,
+      "git_blob_sha": "8750757a8cdb604b6207cabb80895f86a9ae2238"
+    },
+    {
+      "order": 5,
+      "file": "slides/05.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Mesafeyi cezaya çevirmeden istemek. Mesafeye ihtiyaç duyan: Seninle iyiyim, bu akşam biraz kendi başıma kalmam lazım, yarın yemeği birlikte yapalım mı? Yaklaşmak isteyen: Tamam, bu akşam senin. Bu dengeyi iki kişi birlikte kurar. Havada dönerek geri gelen bir bumerang çizimi.",
+      "size_bytes": 900038,
+      "git_blob_sha": "677ee0107caf636d96af7d9523d1444e4f4b206c"
+    },
+    {
+      "order": 6,
+      "file": "slides/06.png",
+      "width": 1080,
+      "height": 1350,
+      "alt_text": "Güvenli bir bağ uzaklaşmaya da yer açabilir. Evli çiftlerle yapılan bir çalışmada, eşin ulaşılabilir olması, karışmaması ve cesaretlendirmesi, kişinin yeni şeyler denemesiyle güçlü biçimde ilişkili bulunmuş. Profilde psikolojik danışmanlık hizmeti bağlantısı var. Yükselen bir uçurtma çizimi.",
+      "size_bytes": 898407,
+      "git_blob_sha": "787f1ba89f30313eb01d5d98f32bf095f51dc980"
+    }
+  ],
+  "caption": "caption.md",
+  "notes": [
+    "Copy audited in the vault (v2 rewrite, AUDIT_PASS after two rounds); evidence brief and audit reports stay in the vault.",
+    "Illustrations: textless 2D ink and watercolor from ChatGPT; text set in HTML and rendered to 1080x1350."
+  ],
+  "revisions": []
+}

@@ -22,54 +22,54 @@
       "file": "slides/01.png",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 1525311,
-      "git_blob_sha": "20d1cc8ab475e666c3e3eb53bf0e24dc69164ea8",
-      "alt_text": "Her şeyi halleden kişi, neyi söyleyemiyor? Krem fonda yeşil defter ve biriken gündelik iş notlarının çizimi."
+      "size_bytes": 1162448,
+      "git_blob_sha": "6abd350eccef80d71aa10265405bc144b5a200d8",
+      "alt_text": "Her şeyi halleden kişi, neyi söyleyemiyor? Bir duvar askısında çok sayıda anahtar taşıyan ağır bir anahtarlığın mürekkep ve suluboya çizimi."
     },
     {
       "order": 2,
       "file": "slides/02.png",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 1139055,
-      "git_blob_sha": "6eb0f16047d0482349b1bccdcb075e624718f74a",
-      "alt_text": "İnsanlar size ne için gelir? Farklı kişilerden gelen taleplerin yeşil defterin çevresinde biriktiği çizim."
+      "size_bytes": 836424,
+      "git_blob_sha": "eaa52ee5c59b7922070a8848bddd16d65102eba4",
+      "alt_text": "Herkes size soruyor olabilir. Sen bakar mısın, ne yapalım, sen halledersin cümlelerinin yazılı olduğu üç not ve farklı yönlerden boş bir sandalyeyi gösteren oklar."
     },
     {
       "order": 3,
       "file": "slides/03.png",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 1439660,
-      "git_blob_sha": "895ff511c45498afb0b6c34124554325b4f988eb",
-      "alt_text": "Güvenilir olmak bazen yorucu hissettirebilir. Bir terazide sorumluluklar ile kişinin ihtiyaçlarının çizimi."
+      "size_bytes": 1064845,
+      "git_blob_sha": "a2ac7c15846997aaaa8a19843fe308bc48e956c9",
+      "alt_text": "Güvenilir olmak bazen yorucu hissettirebilir. Bir kefesinde kâğıt ve kutular, diğerinde tek bir tüy olan, bir yana eğilmiş terazi çizimi."
     },
     {
       "order": 4,
       "file": "slides/04.png",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 1078706,
-      "git_blob_sha": "e94e7716756643400d340bf4e48ebf5a0c0929af",
-      "alt_text": "İki ayrı deneyim: İnsanların çözüm beklediği anlar ve kişinin duyulmak, birlikte düşünmek istediği anlar."
+      "size_bytes": 828609,
+      "git_blob_sha": "04e1d07fbcfad0b07020bf2a240af48d65cf75d2",
+      "alt_text": "İki ayrı deneyim. Sizden beklenenler ve sizin ihtiyacınız başlıklı iki liste, altında ağzına kadar kâğıt dolu bir kavanoz ve içinde tek bir filiz olan bir kavanoz."
     },
     {
       "order": 5,
       "file": "slides/05.png",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 1094484,
-      "git_blob_sha": "ce9803dea99725860ca9022f6d9ecc4dabcc1473",
-      "alt_text": "Küçük bir başlangıç. Kararsızlığını veya konuşma ihtiyacını ifade etmeye yarayan üç cümleyi taşıyan not kâğıtları."
+      "size_bytes": 855168,
+      "git_blob_sha": "1c72e1ec2a334f48f320764b5ee963048bd8b94c",
+      "alt_text": "Konuşmaya nasıl başlanır? Kararsızım, konuşalım mı, dinler misin cümleleriyle başlayan üç not ve karşılıklı duran iki çay bardağı ile çaydanlık çizimi."
     },
     {
       "order": 6,
       "file": "slides/06.png",
       "width": 1080,
       "height": 1350,
-      "size_bytes": 2179279,
-      "git_blob_sha": "ceff3117fc96a2eec0adc9c4972d0196411679fe",
-      "alt_text": "Haftanın sorusu. Kişinin kimin yanında tereddüdünü paylaşabildiğini düşünmesine alan açan illüstratif kapanış."
+      "size_bytes": 1260583,
+      "git_blob_sha": "f7cd8239b30dd32c7c928cf8e4286b3dfcfb6b9f",
+      "alt_text": "Haftanın sorusu. Henüz cevabını bilmediğiniz bir şeyi kimin yanında rahatça söyleyebiliyorsunuz? Taş bir pencere kenarında açık bir defter ve uzakta kıvrılan bir patika çizimi."
     }
   ],
   "caption": "caption.md",
@@ -77,6 +77,7 @@
   "note": "Approved six-slide carousel, moved from original October 15 concept to October 11. Scheduled in Buffer; platform posting remains pending.",
   "revisions": [
     "2026-10-11: slide 06 duplicate ghost line 'Düşünmek için kaydedebilirsiniz.' removed by inpainting (only that band changed). Buffer media replaced.",
-    "2026-10-11: hashtags cut from 7 to 5 (Instagram limit, Buffer blocked save with 7)."
+    "2026-10-11: hashtags cut from 7 to 5 (Instagram limit, Buffer blocked save with 7).",
+    "2026-10-11 (evening): slides replaced by the 2D ink-and-watercolor rebuild (textless ChatGPT illustrations, text set in HTML and rendered to PNG), caption and alt texts synced with the Buffer queue as verified after reload."
   ]
 }

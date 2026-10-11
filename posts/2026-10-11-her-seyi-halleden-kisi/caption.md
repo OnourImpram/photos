@@ -8,4 +8,6 @@ Bazen konuşmaya şu cümleyle başlanabilir: “Bu konuda kararsızım. Biraz b
 
 Siz kimin yanında henüz cevabını bilmediğiniz bir şeyi rahatlıkla söyleyebiliyorsunuz?
 
+Bu tür yükleri bir uzmanla birlikte düşünmek isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz.
+
 #psikoloji #psikoeğitim #sorumluluk #ilişkiler #özfarkındalık

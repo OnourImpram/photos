@@ -8,4 +8,4 @@ Bu hafta takviminizden tek bir sorumluluk seçin. Ona ne zaman, hangi gerekçeyl
 
 İsterseniz bir kâğıdı üç başlığa ayırın: Seçtiklerim, üstlendiklerim, gözden geçireceklerim. Bu başlıklar kişisel düşünme için birer başlangıç noktası.
 
-#kecipsikologu #psikoloji #psikoeğitim #değerler #yaşamdengesi #hedefler #özfarkındalık
+#psikoloji #psikoeğitim #değerler #yaşamdengesi #özfarkındalık

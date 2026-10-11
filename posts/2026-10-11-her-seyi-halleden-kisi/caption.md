@@ -8,4 +8,4 @@ Bazen konuşmaya şu cümleyle başlanabilir: “Bu konuda kararsızım. Biraz b
 
 Siz kimin yanında henüz cevabını bilmediğiniz bir şeyi rahatlıkla söyleyebiliyorsunuz?
 
-#kecipsikologu #psikoloji #psikoeğitim #sorumluluk #ilişkiler #iletişim #özfarkındalık
+#psikoloji #psikoeğitim #sorumluluk #ilişkiler #özfarkındalık

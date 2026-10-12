@@ -2,7 +2,7 @@ Ailemize yakın kalmayı da, kendi kararlarımızı vermeyi de isteyebiliriz.
 
 "Ben hallederim" cümlesinin altında bazen bir endişe yatar. Yıllarca bizi korumuş biri, ne zaman geri çekileceğini kendiliğinden bilemeyebilir. Bunu ona sakin bir sesle, adım adım göstermek de büyümenin bir parçası.
 
-Bu dengeyi bir uzmanla birlikte kurmak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formu onourimpram.com adresinde.
+Bu dengeyi bir uzmanla birlikte kurmak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formunu onourimpram.com'dan doldurup randevu talep edebilirsiniz.
 
 Kaynaklar:
 Journal of Marriage and the Family (1996): https://doi.org/10.2307/353507

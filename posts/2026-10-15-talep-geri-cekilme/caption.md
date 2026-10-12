@@ -4,7 +4,7 @@ Bunu bazen çok önce, büyüdüğümüz evde öğreniriz. Bir evde "konuşulmad
 
 Zor bir konuşmanın ardından kendimize şunu sorabiliriz: Az önce ben neyden korkuyordum, o neyden korkuyor olabilir?
 
-Bu döngüye bir uzmanla birlikte bakmak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formu onourimpram.com adresinde.
+Bu döngüye bir uzmanla birlikte bakmak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formunu onourimpram.com'dan doldurup randevu talep edebilirsiniz.
 
 Kaynaklar:
 Journal of Family Psychology (2010): https://doi.org/10.1037/a0019717

@@ -2,7 +2,7 @@ Aynı konuşmayı kafamızda tekrar tekrar kurmak insanı yerinden kıpırdatmad
 
 Böyle anlarda bir an durup soralım: Bu düşünce beni bir adım ileri götürdü mü, yoksa yine aynı yere mi getirdi?
 
-Bu düşünce döngüsünü bir uzmanla birlikte ele almak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formu onourimpram.com adresinde.
+Bu düşünce döngüsünü bir uzmanla birlikte ele almak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formunu onourimpram.com'dan doldurup randevu talep edebilirsiniz.
 
 Kaynaklar:
 Journal of Abnormal Psychology (1991): https://doi.org/10.1037/0021-843X.100.4.569

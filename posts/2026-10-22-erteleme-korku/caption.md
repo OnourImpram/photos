@@ -8,7 +8,6 @@ Ertelediğiniz işleri ya da konuşmaları bir uzmanla birlikte düşünmek iste
 
 Kaynaklar:
 Journal of Personality and Social Psychology (2001): https://doi.org/10.1037/0022-3514.80.1.53
-Psychological Bulletin (2007): https://doi.org/10.1037/0033-2909.133.1.65
 Journal of Rational-Emotive & Cognitive-Behavior Therapy (2012): https://doi.org/10.1007/s10942-012-0153-9
 
 #psikoloji #psikoeğitim #erteleme #duygudüzenleme #özfarkındalık

@@ -1,6 +1,6 @@
-Aynı düşünceye dönmek, bir şey yapıyormuş gibi gelebilir.
+Aynı konuşmayı kafamızda tekrar tekrar kurmak insanı yerinden kıpırdatmadan yorar.
 
-Bu döngü uzun süre devam ediyor ya da günlük hayatı zorlaştırıyorsa, bir uzmanla çalışmak iyi bir adım olabilir.
+Böyle anlarda bir an durup soralım: Bu düşünce beni bir adım ileri götürdü mü, yoksa yine aynı yere mi getirdi?
 
 Bu düşünce döngüsünü bir uzmanla birlikte ele almak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formu onourimpram.com adresinde.
 

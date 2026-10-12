@@ -15,10 +15,9 @@
       "file": "slides/01.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Biri konuşmak isterken, diğeri susuyorsa. Sofra kalkmış, biri pazar ziyaretini konuşmak istiyor, öteki telefona dönüyor, aynı cümle bu kez daha yüksek sesle geliyor. Buharı yana uzanan adaçayı yeşili bir fincan ile üstü tabakla kapalı bakır bir fincanın çizimi.",
-      "size_bytes": 1020434,
-      "git_blob_sha": "7c84cde621bd7d155266d41373698ea176d78aee",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/51c903d/posts/2026-10-15-talep-geri-cekilme/slides/01.png"
+      "alt_text": "Biri konuşmak isterken, diğeri susuyorsa. Sofra kalkmış, biri pazar ziyaretini konuşmak istiyor, öteki telefona dönüyor, aynı cümle bu kez daha yüksek bir sesle tekrar söyleniyor... Buharı yana uzanan adaçayı yeşili bir fincan ile üstü tabakla kapalı bakır bir fincanın çizimi.",
+      "size_bytes": 1026212,
+      "git_blob_sha": "191a4afb5f153328d17e82eb9814dfed37a5a022"
     },
     {
       "order": 2,
@@ -27,38 +26,34 @@
       "height": 1350,
       "alt_text": "Aynı akşam, iki ayrı iç ses. Konuşmak isteyenin içinden: Susuyorsa artık umursamıyor. Susanın içinden: Kafam doldu, ağzımı açarsam iş büyüyecek. Biri duyulmamaktan, öteki işin büyümesinden korkuyor. Bakır kapaklı cam kavanozda katlanmış yazısız notlar çizimi.",
       "size_bytes": 842241,
-      "git_blob_sha": "9c164102b16f506668f122f860ea55d392d604ad",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/51c903d/posts/2026-10-15-talep-geri-cekilme/slides/02.png"
+      "git_blob_sha": "9c164102b16f506668f122f860ea55d392d604ad"
     },
     {
       "order": 3,
       "file": "slides/03.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "İkisi de bağı korumaya çalışıyor. Üsteleyen yaklaşmaya, susan korumaya çalışıyor. Konuşmaları gözlenen çiftlerle yapılan bir çalışmada, daha çok üsteleyen kişilerin partnerleri daha çok geri çekilmiş. Biri ipini uzatan, öteki ipini geri saran iki yumak çizimi.",
-      "size_bytes": 853763,
-      "git_blob_sha": "ac1901269f5eba26ef0edd71ee6affd8980ea5fe",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/51c903d/posts/2026-10-15-talep-geri-cekilme/slides/03.png"
+      "alt_text": "İkisi de bağı korumaya çalışıyor. Üsteleyen yaklaşmaya, susan korumaya çalışıyor. Biri ipini uzatan, öteki ipini geri saran iki yumak çizimi.",
+      "size_bytes": 807674,
+      "git_blob_sha": "8921a5917743a3a708e96a10e8c0a99f2106afc7"
     },
     {
       "order": 4,
       "file": "slides/04.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Bugün üsteleyen, yarın susan olabilir. Roller konuya göre yer değiştirebiliyorsa soru da değişir: Kim haklı yerine hangi döngüye düştük. Susmak cezalandırmak için kullanılıyorsa ya da korku, tehdit, kontrol varsa bu ortak bir döngü değildir. Yer değiştirmiş iki dal çizimi.",
-      "size_bytes": 1067689,
-      "git_blob_sha": "f199011887f131d53d868e4fc4c02199e33c5a94",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/51c903d/posts/2026-10-15-talep-geri-cekilme/slides/04.png"
+      "alt_text": "Bugün üsteleyen, yarın susan olabilir. Öyleyse kimin haklı olduğunu aramak yerine hangi döngüye düştüğümüzü sorabiliriz. Susmak cezalandırmanın bir yoluysa ya da korku, tehdit ve kontrol varsa bu ortak bir döngü sayılmaz. Yer değiştirmiş iki dal çizimi.",
+      "size_bytes": 1059285,
+      "git_blob_sha": "2be26962e4bad320122b7668e1f24275215f5a0b"
     },
     {
       "order": 5,
       "file": "slides/05.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Konu kapansa da istek havada kalabilir. Yakın zamandaki tartışmalarını anlatan çiftlerle yapılan bir çalışmada, bu döngüye giren konularda, konu kapansa bile istenen değişiklik üzerinde anlaşma olasılığı daha düşük bulunmuş. Masada katlanmış, yazısız tek bir not çizimi.",
-      "size_bytes": 991393,
-      "git_blob_sha": "5fef95a4fbd466bcbd7263a860922391a7484fcb",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/51c903d/posts/2026-10-15-talep-geri-cekilme/slides/05.png"
+      "alt_text": "Konu kapansa da istek havada kalabilir. Yakın zamandaki tartışmalarını anlatan çiftleri dinleyen bir çalışmada, bu döngüye giren konular kapansa bile istenen değişiklikte anlaşmaya daha az varılmış. Masada katlanmış, yazısız tek bir not çizimi.",
+      "size_bytes": 981610,
+      "git_blob_sha": "ac58cb6deae9d99a190caff9cc5cb5c9551d71b9"
     },
     {
       "order": 6,
@@ -67,23 +62,21 @@
       "height": 1350,
       "alt_text": "Bir sonraki zor anda söylenebilecek iki cümle. Konuşmak isteyen: Sustuğunda yalnız kalmış gibi oluyorum. Susan: Kafam doldu, gitmiyorum, bir saat sonra dönüp konuşalım. Biri suçlanmadığını, öteki bırakılmadığını duyar. Kum saati ve kapalı bir zarf çizimi.",
       "size_bytes": 997034,
-      "git_blob_sha": "8eeede7d0c359c6552af1914f64ad00b23bfd5a3",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/51c903d/posts/2026-10-15-talep-geri-cekilme/slides/06.png"
+      "git_blob_sha": "8eeede7d0c359c6552af1914f64ad00b23bfd5a3"
     },
     {
       "order": 7,
       "file": "slides/07.png",
       "width": 1080,
       "height": 1350,
-      "alt_text": "Değiştirmeden önce anlamak. Kabul, karşımızdakinin üstelemesini ya da susmasını, altındaki korkuyla birlikte görebilmekle başlar. Bu döngüye bir uzmanla bakmak için psikolojik danışmanlık hizmeti bağlantısı profilde. İkisinden de buhar yükselen iki fincan çizimi.",
-      "size_bytes": 911940,
-      "git_blob_sha": "4fe8c67d9e01f51e24fddb362267d86086c659bd",
-      "url": "https://raw.githubusercontent.com/OnourImpram/photos/51c903d/posts/2026-10-15-talep-geri-cekilme/slides/07.png"
+      "alt_text": "Değiştirmeden önce anlamak. Kabul, karşımızdakinin üstelemesinin ya da susmasının altında bir korku olabileceğini görmekle başlar. Bu döngüye bir uzmanla bakmak için psikolojik danışmanlık hizmeti bağlantısı profilde. İkisinden de buhar yükselen iki fincan çizimi.",
+      "size_bytes": 914586,
+      "git_blob_sha": "d1aed34b84aecf4e77ef952089b3a51e4865d18c"
     }
   ],
   "caption": "caption.md",
   "notes": [
-    "Copy audited in the vault (v2 rewrite, AUDIT_PASS after three rounds; Temizlik repair to 7 slides 2026-10-12); evidence brief and audit reports stay in the vault.",
+    "Copy audited in the vault (v2 rewrite, AUDIT_PASS after three rounds; Temizlik repair to 7 slides 2026-10-12; ses duzeltmesi 2026-10-12 (S3 notu cikti, S4 S5 S7 yeniden yazildi)); evidence brief and audit reports stay in the vault.",
     "Illustrations: textless 2D ink and watercolor from ChatGPT; text set in HTML and rendered to 1080x1350."
   ],
   "revisions": []

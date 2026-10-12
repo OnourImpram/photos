@@ -1,8 +1,8 @@
 Ailemize yakın kalmayı da, kendi kararlarımızı vermeyi de isteyebiliriz.
 
-Sınır koymak bazı ailelerde güvenli olmayabilir. Öyleyse önce bir uzmanla konuşmak iyi bir başlangıç olabilir. Tehdit, baskı, paranızın ya da hareket özgürlüğünüzün zorla kısıtlanması aile içinde de olsa ilgi değildir.
+"Ben hallederim" cümlesinin altında bazen bir endişe yatar. Yıllarca bizi korumuş biri, ne zaman geri çekileceğini kendiliğinden bilemeyebilir. Bunu ona sakin bir sesle, adım adım göstermek de büyümenin bir parçası.
 
-Bu konuyu bir uzmanla birlikte ele almak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formu onourimpram.com adresinde.
+Bu dengeyi bir uzmanla birlikte kurmak isterseniz, psikolojik danışmanlık hizmeti için profildeki bağlantıdan ulaşabilirsiniz. Ön görüşme formu onourimpram.com adresinde.
 
 Kaynaklar:
 Journal of Marriage and the Family (1996): https://doi.org/10.2307/353507
